@@ -1,0 +1,26 @@
+Started by timer
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/backup
+[backup] $ /bin/bash /tmp/jenkins11746075211803138284.sh
+fatal: detected dubious ownership in repository at '/var/lib/jenkins'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/lib/jenkins
+fatal: detected dubious ownership in repository at '/var/lib/jenkins'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/lib/jenkins
+fatal: detected dubious ownership in repository at '/var/lib/jenkins'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/lib/jenkins
+fatal: detected dubious ownership in repository at '/var/lib/jenkins'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/lib/jenkins
+fatal: detected dubious ownership in repository at '/var/lib/jenkins'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/lib/jenkins
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

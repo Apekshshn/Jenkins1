@@ -1,0 +1,181 @@
+Started by user [8mha:////4IPQCFcKBAJ7zhri84XvzzgJc/ziLoudcjy7j1hx9bFYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZ+/dLi1CL9xILU7OKMxIw8ANHdrDrEAAAA[0mApeksha H N
+[8mha:////4AOY/dZ2IAR/1x0VNXeCQYR9S1w2L1BC/xZr1wXj5YJuAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Ki/XHa+JuFnCIgX6eSsXQSY5czQAjPDW+jNSaTQpLVRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4D/vF4xx4z1beR6wI0kXYY7fICkfYdr+xX0v4WL0qPF5AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/workspace/Project1
+[8mha:////4FvLV9YJ2udB8ZMqGkxYFyTwtGIjd96bPH2w5PF2NOMQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HsoJloGzSz3gV/Kp+OoNr7viA5VFJKRgEAAQecNVgaEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4HETvJ7/WE7d2my+CmRRjHB1PG0uuAMgf5F8W9sBzO9uAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (checking out the code from github)
+[8mha:////4H5ZCdiwQNrcu35wvdgMXXjaYBzxKt9ZcEQhdicZ1OsGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Apekshshn/cicdakshat
+ > git init /var/lib/jenkins/workspace/Project1 # timeout=10
+Fetching upstream changes from https://github.com/Apekshshn/cicdakshat
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Apekshshn/cicdakshat +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Apekshshn/cicdakshat # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 01bae52171c56de29aed29b6ae850d1e44837150 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b master 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+Commit message: "Update deploymentservice.yaml"
+First time build. Skipping changelog.
+[8mha:////4GsCnK5Ngt9e6Y+xL7AwA3urXsIjcU27eVSpJ67W2l0FAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4J9hUCYkDpHtanHwEfiis0vVD73CtHZnwSwaC/3I1A01AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4MiqkvMqVJlEj/VZFT4eM47KRUuuSC9+qixNWKEDBLQDAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4L8YCtt4usgvPvmVwL4BNIeO2xzu2BiWkJhFwNQHB3wPAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (code compile)
+[8mha:////4L3Aw6Ar1EUO2cc/t210KKz6JpVnQjRIyyVv9cGKjYXZAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn compile
+[[1;34mINFO[m] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.0/spring-boot-starter-parent-2.7.0.pom
+Progress (1): 2.8/8.6 kBProgress (1): 5.5/8.6 kBProgress (1): 8.3/8.6 kBProgress (1): 8.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.0/spring-boot-starter-parent-2.7.0.pom (8.6 kB at 11 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.0/spring-boot-dependencies-2.7.0.pom
+Progress (1): 4.1/109 kBProgress (1): 8.2/109 kBProgress (1): 12/109 kB Progress (1): 16/109 kBProgress (1): 20/109 kBProgress (1): 25/109 kBProgress (1): 29/109 kBProgress (1): 33/109 kBProgress (1): 37/109 kBProgress (1): 41/109 kBProgress (1): 45/109 kBProgress (1): 49/109 kBProgress (1): 53/109 kBProgress (1): 57/109 kBProgress (1): 61/109 kBProgress (1): 66/109 kBProgress (1): 70/109 kBProgress (1): 74/109 kBProgress (1): 78/109 kBProgress (1): 82/109 kBProgress (1): 86/109 kBProgress (1): 90/109 kBProgress (1): 94/109 kBProgress (1): 98/109 kBProgress (1): 102/109 kBProgress (1): 106/109 kBProgress (1): 109 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.0/spring-boot-dependencies-2.7.0.pom (109 kB at 955 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.14.1/java-driver-bom-4.14.1.pom
+Progress (1): 4.1/4.1 kBProgress (1): 4.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.14.1/java-driver-bom-4.14.1.pom (4.1 kB at 173 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.9/metrics-bom-4.2.9.pom
+Progress (1): 4.1/6.9 kBProgress (1): 6.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.9/metrics-bom-4.2.9.pom (6.9 kB at 458 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.9/metrics-parent-4.2.9.pom
+Progress (1): 4.1/20 kBProgress (1): 8.2/20 kBProgress (1): 12/20 kB Progress (1): 16/20 kBProgress (1): 20 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.9/metrics-parent-4.2.9.pom (20 kB at 787 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.10/groovy-bom-3.0.10.pom
+Progress (1): 4.1/26 kBProgress (1): 8.2/26 kBProgress (1): 12/26 kB Progress (1): 16/26 kBProgress (1): 20/26 kBProgress (1): 25/26 kBProgress (1): 26 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.10/groovy-bom-3.0.10.pom (26 kB at 1.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/13.0.10.Final/infinispan-bom-13.0.10.Final.pom
+Progress (1): 4.1/19 kBProgress (1): 8.2/19 kBProgress (1): 12/19 kB Progress (1): 16/19 kBProgress (1): 19 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/13.0.10.Final/infinispan-bom-13.0.10.Final.pom (19 kB at 891 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/13.0.10.Final/infinispan-build-configuration-parent-13.0.10.Final.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/13.0.10.Final/infinispan-build-configuration-parent-13.0.10.Final.pom (13 kB at 604 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/36/jboss-parent-36.pom
+Progress (1): 4.1/66 kBProgress (1): 8.2/66 kBProgress (1): 12/66 kB Progress (1): 16/66 kBProgress (1): 20/66 kBProgress (1): 25/66 kBProgress (1): 29/66 kBProgress (1): 33/66 kBProgress (1): 37/66 kBProgress (1): 41/66 kBProgress (1): 45/66 kBProgress (1): 49/66 kBProgress (1): 53/66 kBProgress (1): 57/66 kBProgress (1): 61/66 kBProgress (1): 66/66 kBProgress (1): 66 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/36/jboss-parent-36.pom (66 kB at 2.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom
+Progress (1): 4.1/17 kBProgress (1): 8.2/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom (17 kB at 964 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.13/jackson-parent-2.13.pom
+Progress (1): 4.1/7.4 kBProgress (1): 7.4 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.13/jackson-parent-2.13.pom (7.4 kB at 742 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/43/oss-parent-43.pom
+Progress (1): 4.1/24 kBProgress (1): 8.2/24 kBProgress (1): 12/24 kB Progress (1): 16/24 kBProgress (1): 20/24 kBProgress (1): 24 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/43/oss-parent-43.pom (24 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.35/jersey-bom-2.35.pom
+Progress (1): 4.1/19 kBProgress (1): 8.2/19 kBProgress (1): 12/19 kB Progress (1): 16/19 kBProgress (1): 19 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.35/jersey-bom-2.35.pom (19 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom (13 kB at 833 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.46.v20220331/jetty-bom-9.4.46.v20220331.pom
+Progress (1): 4.1/18 kBProgress (1): 8.2/18 kBProgress (1): 12/18 kB Progress (1): 16/18 kBProgress (1): 18 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.46.v20220331/jetty-bom-9.4.46.v20220331.pom (18 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+Progress (1): 4.1/5.6 kBProgress (1): 5.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom (5.6 kB at 375 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.6.21/kotlin-bom-1.6.21.pom
+Progress (1): 4.1/9.3 kBProgress (1): 8.2/9.3 kBProgress (1): 9.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.6.21/kotlin-bom-1.6.21.pom (9.3 kB at 301 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.6.1/kotlinx-coroutines-bom-1.6.1.pom
+Progress (1): 4.1/4.3 kBProgress (1): 4.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.6.1/kotlinx-coroutines-bom-1.6.1.pom (4.3 kB at 36 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.17.2/log4j-bom-2.17.2.pom
+Progress (1): 4.1/8.1 kBProgress (1): 8.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.17.2/log4j-bom-2.17.2.pom (8.1 kB at 540 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/5/logging-parent-5.pom
+Progress (1): 3.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/5/logging-parent-5.pom (3.3 kB at 469 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/24/apache-24.pom
+Progress (1): 4.1/20 kBProgress (1): 8.2/20 kBProgress (1): 12/20 kB Progress (1): 16/20 kBProgress (1): 20 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/24/apache-24.pom (20 kB at 1.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.0/micrometer-bom-1.9.0.pom
+Progress (1): 4.1/7.1 kBProgress (1): 7.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.0/micrometer-bom-1.9.0.pom (7.1 kB at 505 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-bom/4.5.1/mockito-bom-4.5.1.pom
+Progress (1): 3.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-bom/4.5.1/mockito-bom-4.5.1.pom (3.0 kB at 271 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.77.Final/netty-bom-4.1.77.Final.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.77.Final/netty-bom-4.1.77.Final.pom (13 kB at 627 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-bom/4.9.3/okhttp-bom-4.9.3.pom
+Progress (1): 3.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-bom/4.9.3/okhttp-bom-4.9.3.pom (3.0 kB at 138 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.5.0.0/ojdbc-bom-21.5.0.0.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.5.0.0/ojdbc-bom-21.5.0.0.pom (13 kB at 575 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/prometheus/simpleclient_bom/0.15.0/simpleclient_bom-0.15.0.pom
+Progress (1): 4.1/5.8 kBProgress (1): 5.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/prometheus/simpleclient_bom/0.15.0/simpleclient_bom-0.15.0.pom (5.8 kB at 263 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/prometheus/parent/0.15.0/parent-0.15.0.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/io/prometheus/parent/0.15.0/parent-0.15.0.pom (12 kB at 757 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/querydsl/querydsl-bom/5.0.0/querydsl-bom-5.0.0.pom
+Progress (1): 4.1/7.2 kBProgress (1): 7.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/querydsl/querydsl-bom/5.0.0/querydsl-bom-5.0.0.pom (7.2 kB at 421 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Borca-SR1/r2dbc-bom-Borca-SR1.pom
+Progress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Borca-SR1/r2dbc-bom-Borca-SR1.pom (3.8 kB at 174 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.19/reactor-bom-2020.0.19.pom
+Progress (1): 4.1/4.6 kBProgress (1): 4.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.19/reactor-bom-2020.0.19.pom (4.6 kB at 306 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.2/rsocket-bom-1.1.2.pom
+Progress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.2/rsocket-bom-1.1.2.pom (2.6 kB at 50 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.0/spring-data-bom-2021.2.0.pom
+Progress (1): 4.1/5.7 kBProgress (1): 5.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.0/spring-data-bom-2021.2.0.pom (5.7 kB at 379 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.20/spring-framework-bom-5.3.20.pom
+Progress (1): 4.1/5.7 kBProgress (1): 5.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.20/spring-framework-bom-5.3.20.pom (5.7 kB at 566 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.12/spring-integration-bom-5.5.12.pom
+Progress (1): 4.1/9.2 kBProgress (1): 8.2/9.2 kBProgress (1): 9.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.12/spring-integration-bom-5.5.12.pom (9.2 kB at 706 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.7.1/spring-security-bom-5.7.1.pom
+Progress (1): 4.1/5.7 kBProgress (1): 5.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.7.1/spring-security-bom-5.7.1.pom (5.7 kB at 184 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2021.2.0/spring-session-bom-2021.2.0.pom
+Progress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2021.2.0/spring-session-bom-2021.2.0.pom (3.1 kB at 182 kB/s)
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.0/spring-boot-maven-plugin-2.7.0.pom
+Progress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.0/spring-boot-maven-plugin-2.7.0.pom (3.1 kB at 254 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.0/spring-boot-maven-plugin-2.7.0.jar
+Progress (1): 4.1/105 kBProgress (1): 8.2/105 kBProgress (1): 12/105 kB Progress (1): 16/105 kBProgress (1): 20/105 kBProgress (1): 25/105 kBProgress (1): 29/105 kBProgress (1): 33/105 kBProgress (1): 37/105 kBProgress (1): 41/105 kBProgress (1): 45/105 kBProgress (1): 49/105 kBProgress (1): 53/105 kBProgress (1): 57/105 kBProgress (1): 61/105 kBProgress (1): 66/105 kBProgress (1): 70/105 kBProgress (1): 74/105 kBProgress (1): 78/105 kBProgress (1): 82/105 kBProgress (1): 86/105 kBProgress (1): 90/105 kBProgress (1): 94/105 kBProgress (1): 98/105 kBProgress (1): 102/105 kBProgress (1): 105 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.0/spring-boot-maven-plugin-2.7.0.jar (105 kB at 2.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/4.9.10/git-commit-id-plugin-4.9.10.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/4.9.10/git-commit-id-plugin-4.9.10.pom (12 kB at 500 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin-parent/4.9.10/git-commit-id-plugin-parent-4.9.10.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12/12 kB Progress (1): 12 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin-parent/4.9.10/git-commit-id-plugin-parent-4.9.10.pom (12 kB at 513 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/4.9.10/git-commit-id-plugin-4.9.10.jar
+Progress (1): 4.1/40 kBProgress (1): 8.2/40 kBProgress (1): 12/40 kB Progress (1): 16/40 kBProgress (1): 20/40 kBProgress (1): 25/40 kBProgress (1): 29/40 kBProgress (1): 33/40 kBProgress (1): 37/40 kBProgress (1): 40 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/4.9.10/git-commit-id-plugin-4.9.10.jar (40 kB at 2.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.pom
+Progress (1): 4.1/8.1 kBProgress (1): 8.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.pom (8.1 kB at 269 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom
+Progress (1): 4.1/11 kBProgress (1): 8.2/11 kBProgress (1): 11 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom (11 kB at 891 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.jar
+Progress (1): 4.1/33 kBProgress (1): 8.2/33 kBProgress (1): 12/33 kB Progress (1): 16/33 kBProgress (1): 20/33 kBProgress (1): 25/33 kBProgress (1): 29/33 kBProgress (1): 33/33 kBProgress (1): 33 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.jar (33 kB at 2.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.pom (13 kB at 573 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar
+Progress (1): 4.1/62 kBProgress (1): 8.2/62 kBProgress (1): 12/62 kB Progress (1): 16/62 kBProgress (1): 20/62 kBProgress (1): 25/62 kBProgress (1): 29/62 kBProgress (1): 33/62 kBProgress (1): 37/62 kBProgress (1): 41/62 kBProgress (1): 45/62 kBProgress (1): 49/62 kBProgress (1): 53/62 kBProgress (1): 57/62 kBProgress (1): 61/62 kBProgress (1): 62 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar (62 kB at 1.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.0/spring-boot-starter-web-2.7.0.pom
+Progress (1): 3.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.0/spring-boot-starter-web-2.7.0.pom (3.0 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.0/spring-boot-starter-2.7.0.pom
+Progress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.0/spring-boot-starter-2.7.0.pom (3.1 kB at 34 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.0/spring-boot-2.7.0.pom
+Progress (1): 2.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.0/spring-boot-2.7.0.pom (2.2 kB at 204 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.20/spring-core-5.3.20.pom
+Progress (1): 2.0 kBResuming build at Thu Mar 28 03:01:28 UTC 2024 after Jenkins restart
+Ready to run at Thu Mar 28 03:01:29 UTC 2024
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.20/spring-core-5.3.20.pom
+Progress (1): 2.0 kBResuming build at Thu Mar 28 03:03:12 UTC 2024 after Jenkins restart
+Ready to run at Thu Mar 28 03:03:12 UTC 2024
+Sending interrupt signal to process
+Aborted by [8mha:////4IPQCFcKBAJ7zhri84XvzzgJc/ziLoudcjy7j1hx9bFYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZ+/dLi1CL9xILU7OKMxIw8ANHdrDrEAAAA[0mApeksha H N
+Aborted by [8mha:////4IPQCFcKBAJ7zhri84XvzzgJc/ziLoudcjy7j1hx9bFYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZ+/dLi1CL9xILU7OKMxIw8ANHdrDrEAAAA[0mApeksha H N
+Sending interrupt signal to process
+[8mha:////4HF5SvgEcUlut0+ym6vB304mdoGlHRKRzJXvT7BIHDAkAAAA9x+LCAAAAAAAAP9djDFOwzAUhl9SwVwxIjZW9Jy0UomKOsEAUkUrlQuEYBwnxs/Yz7QsHIJrwILEFTgEF2BjZmAhKBP8y/8t3/f8CVvBwwl5hY20rbah0uhMVB3hmnx7bWiNITpHnjGwdAG1dZFxuVhdnN476Y227TmxHL4PXr8Ovz9SSOYwiN4w7Myb8q4UprRKrNhrq442HvbqeBXIYkU2kJH4pzKZPb3MHt1bCukZbBtpFdd97hYeIOn03X/6cf+/MvRLUoCN6wAZkn2Gg5rZTYUYY55NcDQaY5FPi6zIREOXYumpkRXnIhcs/c0PUJcFkxMBAAA=[0mClick here to forcibly terminate running steps
+After 20s process did not stop
+[8mha:////4Ownqn6sW0mrqjOJvZ1W7+FftK+AuDwvtIvVVeXeAlKuAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4DJ68qc96oD1wSjgFaZar8PiSFdPJRIXZyI+7zLwn8twAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4K6wlg92C1XnA8g7cQHKjVgdYRjYB64gpxAJLhGcZrgbAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJKgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvBXXnAcEAAAA=[0m[Pipeline] stage
+[8mha:////4B4sz3nJctSyNvoCPhgOsovGNrEO1U5j1gbXpRZ8Y9b7AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] { (code testing)
+Stage "code testing" skipped due to earlier failure(s)
+[8mha:////4KHX6FmAaG4M4J2OtoM5RaqrhmH8JN3K0uKPj04pqO3wAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGigQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7NzQyjOK+AAAA[0m[Pipeline] }
+[8mha:////4D11rnScTrQ16xkx9lH94BXak47UueB8xy2eLPJO9hk/AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCiQkRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1b0dOKvgAAAA==[0m[Pipeline] // stage
+[8mha:////4OzKK1+9NiVzZEJqyu54Zqlb6YLcU0PcM+mK4fONKEntAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJBqEqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A361JXbBAAAA[0m[Pipeline] stage
+[8mha:////4CPrGy/1LbCdv/7AbPtgvyoXBS55mthUPfeE2P7241C2AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] { (QA of code)
+Stage "QA of code" skipped due to earlier failure(s)
+[8mha:////4LMKP3ZWWA6Mr7uMRutbQwzx97ljHZkzHVcVGUu6X917AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICtIgqreWGF5jYGCfWnbEdkooX8TX+QCASFVusdraZ5wuWKcKRo8XWUOcoNQ6D7+20cODYXTwP2PIZG6bE3qA0g2Rt6hklZwNzihIWAlaGGs/Jkc2wFq26q8orstUpx+k7CCidvsEDCjGZs4r5C2OEzbXXienn+SuAMYQM5X73qe0bQj1zx74AAAA=[0m[Pipeline] }
+[8mha:////4NAqPgfSHyfDc94zMpkRTbpAS8AQcGP/oWXmBTw3pQvOAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIR6RCiSmul4QUmPowT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYMRPdJgKXZWeDeavMTEYbg6nkTPF9ExRXYoWpxa1tgs2HJCWFKUsJKwQeocR0smwVb26qEqp8hU5xTyd5RQWn2HJxQym5MK6QtzgN1t1JHp5/krgNn7BGVd59ofPoukFhO+AAAA[0m[Pipeline] // stage
+[8mha:////4FgacFssdtLxwg7WFADWwchg9cWOvSlC682U+DNhVw14AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjAR2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INhYxW5sEAAAA=[0m[Pipeline] stage
+[8mha:////4KffpEE2Lx3cQ37USdjtJ5nMEnvoRoGKclva7nvhZY35AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] { (package)
+Stage "package" skipped due to earlier failure(s)
+[8mha:////4B5gjUxcuaD3OljDtDhpWAyxEjnsXDnghdRDeh+Zzh4GAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N027j1u+AAAA[0m[Pipeline] }
+[8mha:////4LMHpuAUm0MaVjhTBv1WVS+lLij11/8yOgtsSdgqcBd2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] // stage
+[8mha:////4ImDAQJc3qvI6PLpSjDRtlilhsQ8sBVAHodU9oHAJ7hXAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREBIFoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuAzuF8ea9AAAA[0m[Pipeline] }
+[8mha:////4Is8ucSxPZBEXb1bZEI+nQhmV/d8/D+jCVzl59F9oll4AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRoEFCVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AEmHxfq9AAAA[0m[Pipeline] // node
+[8mha:////4NdO0fbTMxh2y+YCoHVtQ/noyzFPz36n9Er4ZT+orQlkAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkbMY4uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwAb56isL0AAAA=[0m[Pipeline] End of Pipeline
+org.jenkinsci.plugins.workflow.actions.ErrorAction$ErrorId: ed7df770-4765-4afd-acce-add0e35413a2
+Finished: ABORTED

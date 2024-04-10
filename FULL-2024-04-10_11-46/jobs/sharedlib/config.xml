@@ -1,0 +1,41 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1400.v7fd111b_ec82f">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3889.v937e0b_3412d3">
+    <script>@Library(&apos;sharad-lib&apos;)_
+
+pipeline{
+    agent any
+    stages{
+        stage(demo){
+            steps{
+                welcome(&quot;Apeksh&quot;)
+                welcome(&quot;amulya&quot;)
+            }
+        }
+        stage(calculate){
+            steps{
+                script{
+                    calculator.add(9,2)
+                    calculator.mul(2,3)
+                }
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

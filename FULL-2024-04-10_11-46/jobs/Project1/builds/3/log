@@ -1,0 +1,266 @@
+Started by user [8mha:////4IPQCFcKBAJ7zhri84XvzzgJc/ziLoudcjy7j1hx9bFYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZ+/dLi1CL9xILU7OKMxIw8ANHdrDrEAAAA[0mApeksha H N
+[8mha:////4AOY/dZ2IAR/1x0VNXeCQYR9S1w2L1BC/xZr1wXj5YJuAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Ki/XHa+JuFnCIgX6eSsXQSY5czQAjPDW+jNSaTQpLVRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4D/vF4xx4z1beR6wI0kXYY7fICkfYdr+xX0v4WL0qPF5AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/workspace/Project1
+[8mha:////4FvLV9YJ2udB8ZMqGkxYFyTwtGIjd96bPH2w5PF2NOMQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HsoJloGzSz3gV/Kp+OoNr7viA5VFJKRgEAAQecNVgaEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4HETvJ7/WE7d2my+CmRRjHB1PG0uuAMgf5F8W9sBzO9uAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (checking out the code from github)
+[8mha:////4H5ZCdiwQNrcu35wvdgMXXjaYBzxKt9ZcEQhdicZ1OsGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Apekshshn/cicdakshat
+ > git init /var/lib/jenkins/workspace/Project1 # timeout=10
+Fetching upstream changes from https://github.com/Apekshshn/cicdakshat
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Apekshshn/cicdakshat +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Apekshshn/cicdakshat # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 01bae52171c56de29aed29b6ae850d1e44837150 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b master 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+Commit message: "Update deploymentservice.yaml"
+ > git rev-list --no-walk 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+[8mha:////4GsCnK5Ngt9e6Y+xL7AwA3urXsIjcU27eVSpJ67W2l0FAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4J9hUCYkDpHtanHwEfiis0vVD73CtHZnwSwaC/3I1A01AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4MiqkvMqVJlEj/VZFT4eM47KRUuuSC9+qixNWKEDBLQDAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4L8YCtt4usgvPvmVwL4BNIeO2xzu2BiWkJhFwNQHB3wPAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (code compile)
+[8mha:////4L3Aw6Ar1EUO2cc/t210KKz6JpVnQjRIyyVv9cGKjYXZAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn compile
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mgit-commit-id-plugin:4.9.10:revision[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] dotGitDirectory /var/lib/jenkins/workspace/Project1/.git
+[[1;34mINFO[m] Collected git.build.user.name with value 
+[[1;34mINFO[m] Collected git.build.user.email with value 
+[[1;34mINFO[m] Using environment variable based branch name. GIT_BRANCH = null
+[[1;34mINFO[m] Detected that running on CI environment, but using repository branch, no GIT_BRANCH detected.
+[[1;34mINFO[m] Collected git.branch with value master
+[[1;34mINFO[m] --always = true
+[[1;34mINFO[m] --dirty = -dirty
+[[1;34mINFO[m] --abbrev = 7
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Collected git.commit.id.describe with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id.describe-short with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id with value 01bae52171c56de29aed29b6ae850d1e44837150
+[[1;34mINFO[m] Collected git.commit.id.abbrev with value 01bae52
+[[1;34mINFO[m] Collected git.dirty with value false
+[[1;34mINFO[m] Collected git.commit.user.name with value AKSHAT GUPTA
+[[1;34mINFO[m] Collected git.commit.user.email with value akshu20791@gmail.com
+[[1;34mINFO[m] Collected git.commit.message.full with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.message.short with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.author.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.committer.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.remote.origin.url with value https://github.com/Apekshshn/cicdakshat
+[[1;34mINFO[m] Collected git.tags with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.name with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.commit.count with value 
+[[1;34mINFO[m] Collected git.total.commit.count with value 3
+[[1;34mINFO[m] Collected git.local.branch.ahead with value NO_REMOTE
+[[1;34mINFO[m] Collected git.local.branch.behind with value NO_REMOTE
+[[1;34mINFO[m] Collected git.build.time with value 2024-03-28T03:29:51+0000
+[[1;34mINFO[m] Collected git.build.version with value 0.0.1-SNAPSHOT
+[[1;34mINFO[m] Collected git.build.host with value ip-172-31-11-163
+[[1;34mINFO[m] Collected git.build.number with value 3
+[[1;34mINFO[m] including property git.tags in results
+[[1;34mINFO[m] including property git.build.version in results
+[[1;34mINFO[m] including property git.branch in results
+[[1;34mINFO[m] including property git.build.host in results
+[[1;34mINFO[m] including property git.build.number in results
+[[1;34mINFO[m] including property git.commit.id in results
+[[1;34mINFO[m] including property git.commit.user.email in results
+[[1;34mINFO[m] including property git.local.branch.behind in results
+[[1;34mINFO[m] including property git.commit.author.time in results
+[[1;34mINFO[m] including property git.build.user.name in results
+[[1;34mINFO[m] including property git.dirty in results
+[[1;34mINFO[m] including property git.closest.tag.commit.count in results
+[[1;34mINFO[m] including property git.commit.user.name in results
+[[1;34mINFO[m] including property git.commit.id.abbrev in results
+[[1;34mINFO[m] including property git.commit.id.describe-short in results
+[[1;34mINFO[m] including property git.total.commit.count in results
+[[1;34mINFO[m] including property git.commit.id.describe in results
+[[1;34mINFO[m] including property git.build.user.email in results
+[[1;34mINFO[m] including property git.commit.message.short in results
+[[1;34mINFO[m] including property git.commit.committer.time in results
+[[1;34mINFO[m] including property git.closest.tag.name in results
+[[1;34mINFO[m] including property git.local.branch.ahead in results
+[[1;34mINFO[m] including property git.commit.time in results
+[[1;34mINFO[m] including property git.build.time in results
+[[1;34mINFO[m] including property git.commit.message.full in results
+[[1;34mINFO[m] including property git.remote.origin.url in results
+[[1;34mINFO[m] Writing properties file to [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] (for module devops-integration)...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:build-info[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] Copying 2 resources
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:compile[m [1m(default-compile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 1 source file to /var/lib/jenkins/workspace/Project1/target/classes
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  7.674 s
+[[1;34mINFO[m] Finished at: 2024-03-28T03:29:54Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4FAzTZl5N0KyVTDD/uNYh78p8Iahygr3fVA3sl+PgfcDAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs35DNwLL4AAAA=[0m[Pipeline] echo
+compiling is done
+[8mha:////4AO45qPw63187xlcl1UY/lTLG4ax8hbfPaDbO/fE7pNgAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaJm7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+ATnVfPq+AAAA[0m[Pipeline] }
+[8mha:////4JbQ2JnderlWwr1AgxXw1pj4OKqgItfRkTI8g/659bz2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bgo2J0a+AAAA[0m[Pipeline] // stage
+[8mha:////4CcG/MBi8FhdQeX9tTbWl4tYkcVnMVFjvNL123WB9cAzAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A6sHc4fBAAAA[0m[Pipeline] stage
+[8mha:////4JrqQWa85hDJqrNRAUm5bQQxijTy1yC4dAI5ifqmzmgZAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (code testing)
+[8mha:////4M5GRu4LLpoeTQzf35q1I4Adra0NQcUx0v1dvr4i/2KYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] sh
++ mvn test
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mgit-commit-id-plugin:4.9.10:revision[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] dotGitDirectory /var/lib/jenkins/workspace/Project1/.git
+[[1;34mINFO[m] Collected git.build.user.name with value 
+[[1;34mINFO[m] Collected git.build.user.email with value 
+[[1;34mINFO[m] Using environment variable based branch name. GIT_BRANCH = null
+[[1;34mINFO[m] Detected that running on CI environment, but using repository branch, no GIT_BRANCH detected.
+[[1;34mINFO[m] Collected git.branch with value master
+[[1;34mINFO[m] --always = true
+[[1;34mINFO[m] --dirty = -dirty
+[[1;34mINFO[m] --abbrev = 7
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Collected git.commit.id.describe with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id.describe-short with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id with value 01bae52171c56de29aed29b6ae850d1e44837150
+[[1;34mINFO[m] Collected git.commit.id.abbrev with value 01bae52
+[[1;34mINFO[m] Collected git.dirty with value false
+[[1;34mINFO[m] Collected git.commit.user.name with value AKSHAT GUPTA
+[[1;34mINFO[m] Collected git.commit.user.email with value akshu20791@gmail.com
+[[1;34mINFO[m] Collected git.commit.message.full with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.message.short with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.author.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.committer.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.remote.origin.url with value https://github.com/Apekshshn/cicdakshat
+[[1;34mINFO[m] Collected git.tags with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.name with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.commit.count with value 
+[[1;34mINFO[m] Collected git.total.commit.count with value 3
+[[1;34mINFO[m] Collected git.local.branch.ahead with value NO_REMOTE
+[[1;34mINFO[m] Collected git.local.branch.behind with value NO_REMOTE
+[[1;34mINFO[m] Collected git.build.time with value 2024-03-28T03:30:03+0000
+[[1;34mINFO[m] Collected git.build.version with value 0.0.1-SNAPSHOT
+[[1;34mINFO[m] Collected git.build.host with value ip-172-31-11-163
+[[1;34mINFO[m] Collected git.build.number with value 3
+[[1;34mINFO[m] including property git.tags in results
+[[1;34mINFO[m] including property git.build.version in results
+[[1;34mINFO[m] including property git.branch in results
+[[1;34mINFO[m] including property git.build.host in results
+[[1;34mINFO[m] including property git.build.number in results
+[[1;34mINFO[m] including property git.commit.id in results
+[[1;34mINFO[m] including property git.commit.user.email in results
+[[1;34mINFO[m] including property git.local.branch.behind in results
+[[1;34mINFO[m] including property git.commit.author.time in results
+[[1;34mINFO[m] including property git.build.user.name in results
+[[1;34mINFO[m] including property git.dirty in results
+[[1;34mINFO[m] including property git.closest.tag.commit.count in results
+[[1;34mINFO[m] including property git.commit.user.name in results
+[[1;34mINFO[m] including property git.commit.id.abbrev in results
+[[1;34mINFO[m] including property git.commit.id.describe-short in results
+[[1;34mINFO[m] including property git.total.commit.count in results
+[[1;34mINFO[m] including property git.commit.id.describe in results
+[[1;34mINFO[m] including property git.build.user.email in results
+[[1;34mINFO[m] including property git.commit.message.short in results
+[[1;34mINFO[m] including property git.commit.committer.time in results
+[[1;34mINFO[m] including property git.closest.tag.name in results
+[[1;34mINFO[m] including property git.local.branch.ahead in results
+[[1;34mINFO[m] including property git.commit.time in results
+[[1;34mINFO[m] including property git.build.time in results
+[[1;34mINFO[m] including property git.commit.message.full in results
+[[1;34mINFO[m] including property git.remote.origin.url in results
+[[1;34mINFO[m] Reading existing properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] (for module devops-integration)...
+[[1;34mINFO[m] Properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] is up-to-date (for module devops-integration)...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:build-info[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] Copying 2 resources
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:compile[m [1m(default-compile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:testResources[m [1m(default-testResources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] skip non existing resourceDirectory /var/lib/jenkins/workspace/Project1/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:testCompile[m [1m(default-testCompile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 1 source file to /var/lib/jenkins/workspace/Project1/target/test-classes
+Resuming build at Thu Mar 28 03:36:17 UTC 2024 after Jenkins restart
+Ready to run at Thu Mar 28 03:36:17 UTC 2024
+[8mha:////4Nyyl4kJ60fMXooL/dY0MtikxBgjd94nb3e6Z+kX8Y8zAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N9Jjga++AAAA[0m[Pipeline] }
+[8mha:////4KLACI+Zxb857ujhXm/jQTPBtd/qxYkgY9RpzpoWoMXDAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICFDQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AERGGHOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4KHNujurwcHw+Crm1q+UjjpeJdIKNTB+hBzWDIDDqR4CAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INji2eq8EAAAA=[0m[Pipeline] stage
+[8mha:////4JRn436gc+9Ddfojs2TBZkJQq6p624VTrR9FYpKjinjbAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] { (QA of code)
+Stage "QA of code" skipped due to earlier failure(s)
+[8mha:////4EvUgmQfxcEj4CInzgyMwOAnPySlwlikh5QDiG9Zn5McAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3Zf21ZL4AAAA=[0m[Pipeline] }
+[8mha:////4M3LQDc2woRgqBlBmcjbXg+avSyXSctCso/dkF9I43ZcAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BmecueC+AAAA[0m[Pipeline] // stage
+[8mha:////4GcB4kQeEJ6NqY1VJGAV9Xs7+1dQ5rtqOBLYg0VfQDqWAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjIagQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvmG8PMMEAAAA=[0m[Pipeline] stage
+[8mha:////4I2DLam4vtboefAgxIIS3St8g6V0Vqhsd9hQ4jA0Z1coAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUQoIFMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfACW9ZT2wgAAAA==[0m[Pipeline] { (package)
+Stage "package" skipped due to earlier failure(s)
+[8mha:////4EAS+Cw+SUo+PZEDlolUjegRHczOi1nu0SZdDIEFM3r6AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiUUCBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFqe0n4vgAAAA==[0m[Pipeline] }
+[8mha:////4NqY18JrBRHDS16LajQOyKVQVH7Z1cS2wEtjJOfHsFptAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISEhIaq0lhteYGJjnFh3xnZIKl7E1/gDgUhUbLHa2WaeL1imCEeOFltDnaPUOAy+t9PCgWN38Txgy2dsmBJ7g9IMkrWpZ5ScDcwpSlgIWBlqPCdHNsNatOquKq/IVqccp+8goHT6Bg8oxGTOKuYvjBE2114npp/nrwDGEDKU2/2ndm8FmBaQvgAAAA==[0m[Pipeline] // stage
+[8mha:////4FAbXUpKhOivraQXIyy+NVweW2fpejgyH3yhgfD68h/nAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREA1CVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AFo7wVm9AAAA[0m[Pipeline] }
+[8mha:////4CS5V1mwyNCYeVLMkdn3d2T54QtH78nGQMSi2pQwU24HAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KYMBon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk5V6QlR8tH+kBvQAAAA==[0m[Pipeline] // node
+[8mha:////4N1cwQYg1GWBh4ulKg/StfFf9YL7s2EwNux+5bLgIsujAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny/VaQ7T4LBo5LvQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: missing workspace /var/lib/jenkins/workspace/Project1 on 
+Finished: FAILURE

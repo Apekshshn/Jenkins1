@@ -1,0 +1,50 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<analysisReport plugin="analysis-model-api@12.1.0">
+  <id>-</id>
+  <name>-</name>
+  <originReportFile>-</originReportFile>
+  <subReports>
+    <analysisReport>
+      <id>pmd</id>
+      <name>PMD</name>
+      <originReportFile>/var/lib/jenkins/workspace/Project1/target/pmd.xml</originReportFile>
+      <subReports/>
+      <elements class="linked-hash-set"/>
+      <infoMessages>
+        <string>Searching for all files in &apos;/var/lib/jenkins/workspace/Project1&apos; that match the pattern &apos;**/pmd.xml&apos;</string>
+        <string>Traversing of symbolic links: enabled</string>
+        <string>-&gt; found 1 file</string>
+        <string>Successfully parsed file /var/lib/jenkins/workspace/Project1/target/pmd.xml</string>
+        <string>-&gt; found 0 issues (skipped 0 duplicates)</string>
+        <string>Successfully processed file &apos;target/pmd.xml&apos;</string>
+        <string>Skipping post processing</string>
+        <string>No filter has been set, publishing all 0 issues</string>
+      </infoMessages>
+      <errorMessages/>
+      <countersByKey/>
+      <duplicatesSize>0</duplicatesSize>
+    </analysisReport>
+  </subReports>
+  <elements class="linked-hash-set"/>
+  <infoMessages>
+    <string>Searching for all files in &apos;/var/lib/jenkins/workspace/Project1&apos; that match the pattern &apos;**/pmd.xml&apos;</string>
+    <string>Traversing of symbolic links: enabled</string>
+    <string>-&gt; found 1 file</string>
+    <string>Successfully parsed file /var/lib/jenkins/workspace/Project1/target/pmd.xml</string>
+    <string>-&gt; found 0 issues (skipped 0 duplicates)</string>
+    <string>Successfully processed file &apos;target/pmd.xml&apos;</string>
+    <string>Skipping post processing</string>
+    <string>No filter has been set, publishing all 0 issues</string>
+    <string>Repository miner is not configured, skipping repository mining</string>
+    <string>Reference build recorder is not configured</string>
+    <string>No valid reference build found</string>
+    <string>All reported issues will be considered outstanding</string>
+    <string>No quality gates have been set - skipping</string>
+    <string>Health report is disabled - skipping</string>
+    <string>Created analysis result for 0 issues (found 0 new issues, fixed 0 issues)</string>
+    <string>Attaching ResultAction with ID &apos;pmd&apos; to build &apos;Project1 #6&apos;.</string>
+  </infoMessages>
+  <errorMessages/>
+  <countersByKey/>
+  <duplicatesSize>0</duplicatesSize>
+</analysisReport>

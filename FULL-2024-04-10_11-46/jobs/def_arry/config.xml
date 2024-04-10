@@ -1,0 +1,40 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1400.v7fd111b_ec82f">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3889.v937e0b_3412d3">
+    <script>def sample_array = [&quot;compile&quot;, &quot;test&quot;, &quot;pmd:pmd&quot;, &quot;package&quot;]
+ pipeline{
+    agent any
+    stages{
+        stage(&quot;checking out the code from github&quot;){
+            steps{
+                git url:&apos;https://github.com/Apekshshn/DevOpsClassCodes&apos;
+            }
+        }
+        stage(&quot;Creating the loop&quot;){
+            steps{
+                script{
+                    for (int i=0; i&lt;sample_array.size(); i++){ 
+                        sh &quot;mvn ${sample_array[i]}&quot;
+                    }
+                }
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

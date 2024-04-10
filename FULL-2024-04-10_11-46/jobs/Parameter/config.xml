@@ -1,0 +1,42 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1400.v7fd111b_ec82f">
+  <actions>
+    <org.jenkinsci.plugins.workflow.multibranch.JobPropertyTrackerAction plugin="workflow-multibranch@773.vc4fe1378f1d5">
+      <jobPropertyDescriptors>
+        <string>hudson.model.ParametersDefinitionProperty</string>
+      </jobPropertyDescriptors>
+    </org.jenkinsci.plugins.workflow.multibranch.JobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <hudson.model.ParametersDefinitionProperty>
+      <parameterDefinitions>
+        <hudson.model.ChoiceParameterDefinition>
+          <name>Branch</name>
+          <choices>
+            <string>Master</string>
+            <string>Branch1</string>
+            <string>Branch2</string>
+          </choices>
+        </hudson.model.ChoiceParameterDefinition>
+      </parameterDefinitions>
+    </hudson.model.ParametersDefinitionProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3889.v937e0b_3412d3">
+    <script>properties([parameters([choice(choices: [&apos;Master&apos;, &apos;Branch1&apos;, &apos;Branch2&apos;], name: &apos;Branch&apos;)])])
+pipelinne{
+    agent any
+    stages{
+        stage(&quot;pulling&quot;){
+            steps{
+                echo &quot;pulling from $params.Branch&quot;
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

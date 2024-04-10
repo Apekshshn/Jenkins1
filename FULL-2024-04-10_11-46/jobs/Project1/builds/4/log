@@ -1,0 +1,538 @@
+Started by user [8mha:////4IPQCFcKBAJ7zhri84XvzzgJc/ziLoudcjy7j1hx9bFYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZ+/dLi1CL9xILU7OKMxIw8ANHdrDrEAAAA[0mApeksha H N
+[8mha:////4AOY/dZ2IAR/1x0VNXeCQYR9S1w2L1BC/xZr1wXj5YJuAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Ki/XHa+JuFnCIgX6eSsXQSY5czQAjPDW+jNSaTQpLVRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4D/vF4xx4z1beR6wI0kXYY7fICkfYdr+xX0v4WL0qPF5AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/workspace/Project1
+[8mha:////4FvLV9YJ2udB8ZMqGkxYFyTwtGIjd96bPH2w5PF2NOMQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HsoJloGzSz3gV/Kp+OoNr7viA5VFJKRgEAAQecNVgaEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4HETvJ7/WE7d2my+CmRRjHB1PG0uuAMgf5F8W9sBzO9uAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (checking out the code from github)
+[8mha:////4H5ZCdiwQNrcu35wvdgMXXjaYBzxKt9ZcEQhdicZ1OsGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Apekshshn/cicdakshat
+ > git init /var/lib/jenkins/workspace/Project1 # timeout=10
+Fetching upstream changes from https://github.com/Apekshshn/cicdakshat
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Apekshshn/cicdakshat +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Apekshshn/cicdakshat # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 01bae52171c56de29aed29b6ae850d1e44837150 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b master 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+Commit message: "Update deploymentservice.yaml"
+ > git rev-list --no-walk 01bae52171c56de29aed29b6ae850d1e44837150 # timeout=10
+[8mha:////4GsCnK5Ngt9e6Y+xL7AwA3urXsIjcU27eVSpJ67W2l0FAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4J9hUCYkDpHtanHwEfiis0vVD73CtHZnwSwaC/3I1A01AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4MiqkvMqVJlEj/VZFT4eM47KRUuuSC9+qixNWKEDBLQDAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4L8YCtt4usgvPvmVwL4BNIeO2xzu2BiWkJhFwNQHB3wPAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (code compile)
+[8mha:////4L3Aw6Ar1EUO2cc/t210KKz6JpVnQjRIyyVv9cGKjYXZAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn compile
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mgit-commit-id-plugin:4.9.10:revision[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] dotGitDirectory /var/lib/jenkins/workspace/Project1/.git
+[[1;34mINFO[m] Collected git.build.user.name with value 
+[[1;34mINFO[m] Collected git.build.user.email with value 
+[[1;34mINFO[m] Using environment variable based branch name. GIT_BRANCH = null
+[[1;34mINFO[m] Detected that running on CI environment, but using repository branch, no GIT_BRANCH detected.
+[[1;34mINFO[m] Collected git.branch with value master
+[[1;34mINFO[m] --always = true
+[[1;34mINFO[m] --dirty = -dirty
+[[1;34mINFO[m] --abbrev = 7
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Collected git.commit.id.describe with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id.describe-short with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id with value 01bae52171c56de29aed29b6ae850d1e44837150
+[[1;34mINFO[m] Collected git.commit.id.abbrev with value 01bae52
+[[1;34mINFO[m] Collected git.dirty with value false
+[[1;34mINFO[m] Collected git.commit.user.name with value AKSHAT GUPTA
+[[1;34mINFO[m] Collected git.commit.user.email with value akshu20791@gmail.com
+[[1;34mINFO[m] Collected git.commit.message.full with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.message.short with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.author.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.committer.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.remote.origin.url with value https://github.com/Apekshshn/cicdakshat
+[[1;34mINFO[m] Collected git.tags with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.name with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.commit.count with value 
+[[1;34mINFO[m] Collected git.total.commit.count with value 3
+[[1;34mINFO[m] Collected git.local.branch.ahead with value NO_REMOTE
+[[1;34mINFO[m] Collected git.local.branch.behind with value NO_REMOTE
+[[1;34mINFO[m] Collected git.build.time with value 2024-03-28T04:05:36+0000
+[[1;34mINFO[m] Collected git.build.version with value 0.0.1-SNAPSHOT
+[[1;34mINFO[m] Collected git.build.host with value ip-172-31-11-163
+[[1;34mINFO[m] Collected git.build.number with value 4
+[[1;34mINFO[m] including property git.tags in results
+[[1;34mINFO[m] including property git.build.version in results
+[[1;34mINFO[m] including property git.branch in results
+[[1;34mINFO[m] including property git.build.host in results
+[[1;34mINFO[m] including property git.build.number in results
+[[1;34mINFO[m] including property git.commit.id in results
+[[1;34mINFO[m] including property git.commit.user.email in results
+[[1;34mINFO[m] including property git.local.branch.behind in results
+[[1;34mINFO[m] including property git.commit.author.time in results
+[[1;34mINFO[m] including property git.build.user.name in results
+[[1;34mINFO[m] including property git.dirty in results
+[[1;34mINFO[m] including property git.closest.tag.commit.count in results
+[[1;34mINFO[m] including property git.commit.user.name in results
+[[1;34mINFO[m] including property git.commit.id.abbrev in results
+[[1;34mINFO[m] including property git.commit.id.describe-short in results
+[[1;34mINFO[m] including property git.total.commit.count in results
+[[1;34mINFO[m] including property git.commit.id.describe in results
+[[1;34mINFO[m] including property git.build.user.email in results
+[[1;34mINFO[m] including property git.commit.message.short in results
+[[1;34mINFO[m] including property git.commit.committer.time in results
+[[1;34mINFO[m] including property git.closest.tag.name in results
+[[1;34mINFO[m] including property git.local.branch.ahead in results
+[[1;34mINFO[m] including property git.commit.time in results
+[[1;34mINFO[m] including property git.build.time in results
+[[1;34mINFO[m] including property git.commit.message.full in results
+[[1;34mINFO[m] including property git.remote.origin.url in results
+[[1;34mINFO[m] Writing properties file to [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] (for module devops-integration)...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:build-info[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] Copying 2 resources
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:compile[m [1m(default-compile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 1 source file to /var/lib/jenkins/workspace/Project1/target/classes
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  5.835 s
+[[1;34mINFO[m] Finished at: 2024-03-28T04:05:38Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4FAzTZl5N0KyVTDD/uNYh78p8Iahygr3fVA3sl+PgfcDAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs35DNwLL4AAAA=[0m[Pipeline] echo
+compiling is done
+[8mha:////4AO45qPw63187xlcl1UY/lTLG4ax8hbfPaDbO/fE7pNgAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaJm7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+ATnVfPq+AAAA[0m[Pipeline] }
+[8mha:////4JbQ2JnderlWwr1AgxXw1pj4OKqgItfRkTI8g/659bz2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bgo2J0a+AAAA[0m[Pipeline] // stage
+[8mha:////4CcG/MBi8FhdQeX9tTbWl4tYkcVnMVFjvNL123WB9cAzAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A6sHc4fBAAAA[0m[Pipeline] stage
+[8mha:////4JrqQWa85hDJqrNRAUm5bQQxijTy1yC4dAI5ifqmzmgZAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (code testing)
+[8mha:////4M5GRu4LLpoeTQzf35q1I4Adra0NQcUx0v1dvr4i/2KYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] sh
++ mvn test
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mgit-commit-id-plugin:4.9.10:revision[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] dotGitDirectory /var/lib/jenkins/workspace/Project1/.git
+[[1;34mINFO[m] Collected git.build.user.name with value 
+[[1;34mINFO[m] Collected git.build.user.email with value 
+[[1;34mINFO[m] Using environment variable based branch name. GIT_BRANCH = null
+[[1;34mINFO[m] Detected that running on CI environment, but using repository branch, no GIT_BRANCH detected.
+[[1;34mINFO[m] Collected git.branch with value master
+[[1;34mINFO[m] --always = true
+[[1;34mINFO[m] --dirty = -dirty
+[[1;34mINFO[m] --abbrev = 7
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Collected git.commit.id.describe with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id.describe-short with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id with value 01bae52171c56de29aed29b6ae850d1e44837150
+[[1;34mINFO[m] Collected git.commit.id.abbrev with value 01bae52
+[[1;34mINFO[m] Collected git.dirty with value false
+[[1;34mINFO[m] Collected git.commit.user.name with value AKSHAT GUPTA
+[[1;34mINFO[m] Collected git.commit.user.email with value akshu20791@gmail.com
+[[1;34mINFO[m] Collected git.commit.message.full with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.message.short with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.author.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.committer.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.remote.origin.url with value https://github.com/Apekshshn/cicdakshat
+[[1;34mINFO[m] Collected git.tags with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.name with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.commit.count with value 
+[[1;34mINFO[m] Collected git.total.commit.count with value 3
+[[1;34mINFO[m] Collected git.local.branch.ahead with value NO_REMOTE
+[[1;34mINFO[m] Collected git.local.branch.behind with value NO_REMOTE
+[[1;34mINFO[m] Collected git.build.time with value 2024-03-28T04:05:44+0000
+[[1;34mINFO[m] Collected git.build.version with value 0.0.1-SNAPSHOT
+[[1;34mINFO[m] Collected git.build.host with value ip-172-31-11-163
+[[1;34mINFO[m] Collected git.build.number with value 4
+[[1;34mINFO[m] including property git.tags in results
+[[1;34mINFO[m] including property git.build.version in results
+[[1;34mINFO[m] including property git.branch in results
+[[1;34mINFO[m] including property git.build.host in results
+[[1;34mINFO[m] including property git.build.number in results
+[[1;34mINFO[m] including property git.commit.id in results
+[[1;34mINFO[m] including property git.commit.user.email in results
+[[1;34mINFO[m] including property git.local.branch.behind in results
+[[1;34mINFO[m] including property git.commit.author.time in results
+[[1;34mINFO[m] including property git.build.user.name in results
+[[1;34mINFO[m] including property git.dirty in results
+[[1;34mINFO[m] including property git.closest.tag.commit.count in results
+[[1;34mINFO[m] including property git.commit.user.name in results
+[[1;34mINFO[m] including property git.commit.id.abbrev in results
+[[1;34mINFO[m] including property git.commit.id.describe-short in results
+[[1;34mINFO[m] including property git.total.commit.count in results
+[[1;34mINFO[m] including property git.commit.id.describe in results
+[[1;34mINFO[m] including property git.build.user.email in results
+[[1;34mINFO[m] including property git.commit.message.short in results
+[[1;34mINFO[m] including property git.commit.committer.time in results
+[[1;34mINFO[m] including property git.closest.tag.name in results
+[[1;34mINFO[m] including property git.local.branch.ahead in results
+[[1;34mINFO[m] including property git.commit.time in results
+[[1;34mINFO[m] including property git.build.time in results
+[[1;34mINFO[m] including property git.commit.message.full in results
+[[1;34mINFO[m] including property git.remote.origin.url in results
+[[1;34mINFO[m] Reading existing properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] (for module devops-integration)...
+[[1;34mINFO[m] Properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] is up-to-date (for module devops-integration)...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:build-info[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] Copying 2 resources
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:compile[m [1m(default-compile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:testResources[m [1m(default-testResources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] skip non existing resourceDirectory /var/lib/jenkins/workspace/Project1/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:testCompile[m [1m(default-testCompile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 1 source file to /var/lib/jenkins/workspace/Project1/target/test-classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.2:test[m [1m(default-test)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m]  T E S T S
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m] Running com.truelearning.[1mDevopsIntegrationApplicationTests[m
+04:05:48.812 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+04:05:48.839 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+04:05:48.946 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.truelearning.DevopsIntegrationApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+04:05:48.969 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.truelearning.DevopsIntegrationApplicationTests], using SpringBootContextLoader
+04:05:48.980 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.truelearning.DevopsIntegrationApplicationTests]: class path resource [com/truelearning/DevopsIntegrationApplicationTests-context.xml] does not exist
+04:05:48.984 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.truelearning.DevopsIntegrationApplicationTests]: class path resource [com/truelearning/DevopsIntegrationApplicationTestsContext.groovy] does not exist
+04:05:48.986 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.truelearning.DevopsIntegrationApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+04:05:48.990 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.truelearning.DevopsIntegrationApplicationTests]: DevopsIntegrationApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+04:05:49.120 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.truelearning.DevopsIntegrationApplicationTests]
+04:05:49.318 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [/var/lib/jenkins/workspace/Project1/target/classes/com/truelearning/DevopsIntegrationApplication.class]
+04:05:49.330 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.truelearning.DevopsIntegrationApplication for test class com.truelearning.DevopsIntegrationApplicationTests
+04:05:49.652 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.truelearning.DevopsIntegrationApplicationTests]: using defaults.
+04:05:49.653 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+04:05:49.696 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+04:05:49.709 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+04:05:49.713 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@71e9ebae, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@73d983ea, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@36a5cabc, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@432038ec, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7daa0fbd, org.springframework.test.context.support.DirtiesContextTestExecutionListener@42530531, org.springframework.test.context.event.EventPublishingTestExecutionListener@5a3bc7ed, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@181e731e, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@35645047, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6f44a157, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@6bc407fd, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@291f18, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@17d88132]
+04:05:49.725 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@c7ba306 testClass = DevopsIntegrationApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@4ff8d125 testClass = DevopsIntegrationApplicationTests, locations = '{}', classes = '{class com.truelearning.DevopsIntegrationApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@649bec2e, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@1cbb87f3, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@446293d, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@3059cbc, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@2a54a73f, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@2d8f65a4], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.0)
+
+2024-03-28 04:05:50.488  INFO 2072 --- [           main] c.t.DevopsIntegrationApplicationTests    : Starting DevopsIntegrationApplicationTests using Java 11.0.22 on ip-172-31-11-163 with PID 2072 (started by jenkins in /var/lib/jenkins/workspace/Project1)
+2024-03-28 04:05:50.501  INFO 2072 --- [           main] c.t.DevopsIntegrationApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-03-28 04:05:54.388  INFO 2072 --- [           main] c.t.DevopsIntegrationApplicationTests    : Started DevopsIntegrationApplicationTests in 4.588 seconds (JVM running for 7.01)
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m1[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.412 s - in com.truelearning.[1mDevopsIntegrationApplicationTests[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Results:
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1;32mTests run: 1, Failures: 0, Errors: 0, Skipped: 0[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  14.475 s
+[[1;34mINFO[m] Finished at: 2024-03-28T04:05:55Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4AI/cpD94MWvGayrjQRf3spyCl5pvuo2udh1mHRpQAchAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN1TuT7W+AAAA[0m[Pipeline] echo
+Testing is done
+[8mha:////4HuRJKnfQA3aXzC2eVChYwvjVadMBkWFiAsj+dGkjKixAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICNBQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AGHKGa5vgAAAA==[0m[Pipeline] }
+[8mha:////4ISjCez66bfWBQ5mMhvHJxbbV1uRKpBzpLqVYDCsvlwHAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUNAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AG0yz0FvgAAAA==[0m[Pipeline] // stage
+[8mha:////4CHOEuLbmQ3d2NHwE5l3LX1Ryb2NVUTSOD06xfmv/8E6AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYQjRXSIitZywwtMbIwT6y7YF5KKF/E1/oAhEhVb7ay0mucLqhThQNGJzmLvMbVeDGF0uYmJYn8JNImOzqIlTBSsUHZSZOxxQUVsYUlRwkrC2mIbKHl0DBvZ6buug0ZXnzjmbS+h9OYGDyhkNrOO/IU5wvY6mkT48/wVwDwwFDuGsmk+x+oNIF8KLcEAAAA=[0m[Pipeline] stage
+[8mha:////4GdmYCdpn4qFchu4Pws5zod/vaVKq2b++3Ccx+siLft7AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] { (QA of code)
+[8mha:////4JB3t1HwRuNNk0tQGai0XAnht9m/Iv5ZMD9fPYRw822DAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBrANZ3i+AAAA[0m[Pipeline] sh
++ mvn pmd:pmd
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-pmd-plugin:3.21.2:pmd[m [1m(default-cli)[m @ [36mdevops-integration[0;1m ---[m
+[[1;33mWARNING[m] Unable to locate Source XRef to link to - DISABLED
+[[1;34mINFO[m] PMD version: 6.55.0
+[[1;34mINFO[m] Rendering content with [1morg.apache.maven.skins:maven-default-skin:jar:1.3 skin[m.
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  6.719 s
+[[1;34mINFO[m] Finished at: 2024-03-28T04:06:04Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4Ackb348d8xROKLsbd219C1Lf5DYbQirz8aQlppCiafeAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN/E8fGG+AAAA[0m[Pipeline] recordIssues
+[PMD] Using default pattern '**/pmd.xml' since user defined pattern is not set
+[PMD] Searching for all files in '/var/lib/jenkins/workspace/Project1' that match the pattern '**/pmd.xml'
+[PMD] Traversing of symbolic links: enabled
+[PMD] -> found 1 file
+[PMD] Successfully parsed file /var/lib/jenkins/workspace/Project1/target/pmd.xml
+[PMD] -> found 0 issues (skipped 0 duplicates)
+[PMD] Successfully processed file 'target/pmd.xml'
+[PMD] Skipping post processing
+[PMD] No filter has been set, publishing all 0 issues
+[PMD] Repository miner is not configured, skipping repository mining
+[PMD] Searching for all files in '/var/lib/jenkins/workspace/Project1' that match the pattern '**/pmd.xml'
+[PMD] Traversing of symbolic links: enabled
+[PMD] -> found 1 file
+[PMD] Successfully parsed file /var/lib/jenkins/workspace/Project1/target/pmd.xml
+[PMD] -> found 0 issues (skipped 0 duplicates)
+[PMD] Successfully processed file 'target/pmd.xml'
+[PMD] Skipping post processing
+[PMD] No filter has been set, publishing all 0 issues
+[PMD] Searching for all files in '/var/lib/jenkins/workspace/Project1' that match the pattern '**/pmd.xml'
+[PMD] Traversing of symbolic links: enabled
+[PMD] -> found 1 file
+[PMD] Successfully parsed file /var/lib/jenkins/workspace/Project1/target/pmd.xml
+[PMD] -> found 0 issues (skipped 0 duplicates)
+[PMD] Successfully processed file 'target/pmd.xml'
+[PMD] Skipping post processing
+[PMD] No filter has been set, publishing all 0 issues
+[PMD] Repository miner is not configured, skipping repository mining
+[PMD] Reference build recorder is not configured
+[PMD] No valid reference build found
+[PMD] All reported issues will be considered outstanding
+[PMD] No quality gates have been set - skipping
+[PMD] Health report is disabled - skipping
+[PMD] Created analysis result for 0 issues (found 0 new issues, fixed 0 issues)
+[PMD] Attaching ResultAction with ID 'pmd' to build 'Project1 #4'.
+[Checks API] No suitable checks publisher found.
+[8mha:////4LMHpuAUm0MaVjhTBv1WVS+lLij11/8yOgtsSdgqcBd2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] }
+[8mha:////4AhVPbovRT1u3/bwEBcxQhBEImDTRANW9OWos27TLZECAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8bCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXO/JP++AAAA[0m[Pipeline] // stage
+[8mha:////4I81zA5XteK2oNrInyISP1fRIGblat43A7PE3Xoui/2dAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjIQokREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG0Z8kYzBAAAA[0m[Pipeline] stage
+[8mha:////4IlsWSdgBH9N1+mRJHyKo1dT3oZygvaFPsCIPiq3KFQLAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYgIhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0QKVszCAAAA[0m[Pipeline] { (package)
+[8mha:////4APfNpHHOb+Ge7WUHQd3fKFCEKXBelGwYxytaTiG/ECUAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKHeHXPvt8AHN/bm5vgAAAA==[0m[Pipeline] sh
++ mvn package
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.truelearning:devops-integration:jar:0.0.1-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.springframework.boot:spring-boot-maven-plugin @ line 44, column 12
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mcom.truelearning:devops-integration[0;1m >-----------------[m
+[[1;34mINFO[m] [1mBuilding devops-integration 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mgit-commit-id-plugin:4.9.10:revision[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] dotGitDirectory /var/lib/jenkins/workspace/Project1/.git
+[[1;34mINFO[m] Collected git.build.user.name with value 
+[[1;34mINFO[m] Collected git.build.user.email with value 
+[[1;34mINFO[m] Using environment variable based branch name. GIT_BRANCH = null
+[[1;34mINFO[m] Detected that running on CI environment, but using repository branch, no GIT_BRANCH detected.
+[[1;34mINFO[m] Collected git.branch with value master
+[[1;34mINFO[m] --always = true
+[[1;34mINFO[m] --dirty = -dirty
+[[1;34mINFO[m] --abbrev = 7
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Collected git.commit.id.describe with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id.describe-short with value 01bae52
+[[1;34mINFO[m] Collected git.commit.id with value 01bae52171c56de29aed29b6ae850d1e44837150
+[[1;34mINFO[m] Collected git.commit.id.abbrev with value 01bae52
+[[1;34mINFO[m] Collected git.dirty with value false
+[[1;34mINFO[m] Collected git.commit.user.name with value AKSHAT GUPTA
+[[1;34mINFO[m] Collected git.commit.user.email with value akshu20791@gmail.com
+[[1;34mINFO[m] Collected git.commit.message.full with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.message.short with value Update deploymentservice.yaml
+[[1;34mINFO[m] Collected git.commit.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.author.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.commit.committer.time with value 2024-03-06T02:31:59+0000
+[[1;34mINFO[m] Collected git.remote.origin.url with value https://github.com/Apekshshn/cicdakshat
+[[1;34mINFO[m] Collected git.tags with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.name with value 
+[[1;34mINFO[m] evalCommit is [01bae52171c56de29aed29b6ae850d1e44837150]
+[[1;34mINFO[m] Tag refs [[]]
+[[1;34mINFO[m] Created map: [{}]
+[[1;34mINFO[m] Collected git.closest.tag.commit.count with value 
+[[1;34mINFO[m] Collected git.total.commit.count with value 3
+[[1;34mINFO[m] Collected git.local.branch.ahead with value NO_REMOTE
+[[1;34mINFO[m] Collected git.local.branch.behind with value NO_REMOTE
+[[1;34mINFO[m] Collected git.build.time with value 2024-03-28T04:06:11+0000
+[[1;34mINFO[m] Collected git.build.version with value 0.0.1-SNAPSHOT
+[[1;34mINFO[m] Collected git.build.host with value ip-172-31-11-163
+[[1;34mINFO[m] Collected git.build.number with value 4
+[[1;34mINFO[m] including property git.tags in results
+[[1;34mINFO[m] including property git.build.version in results
+[[1;34mINFO[m] including property git.branch in results
+[[1;34mINFO[m] including property git.build.host in results
+[[1;34mINFO[m] including property git.build.number in results
+[[1;34mINFO[m] including property git.commit.id in results
+[[1;34mINFO[m] including property git.commit.user.email in results
+[[1;34mINFO[m] including property git.local.branch.behind in results
+[[1;34mINFO[m] including property git.commit.author.time in results
+[[1;34mINFO[m] including property git.build.user.name in results
+[[1;34mINFO[m] including property git.dirty in results
+[[1;34mINFO[m] including property git.closest.tag.commit.count in results
+[[1;34mINFO[m] including property git.commit.user.name in results
+[[1;34mINFO[m] including property git.commit.id.abbrev in results
+[[1;34mINFO[m] including property git.commit.id.describe-short in results
+[[1;34mINFO[m] including property git.total.commit.count in results
+[[1;34mINFO[m] including property git.commit.id.describe in results
+[[1;34mINFO[m] including property git.build.user.email in results
+[[1;34mINFO[m] including property git.commit.message.short in results
+[[1;34mINFO[m] including property git.commit.committer.time in results
+[[1;34mINFO[m] including property git.closest.tag.name in results
+[[1;34mINFO[m] including property git.local.branch.ahead in results
+[[1;34mINFO[m] including property git.commit.time in results
+[[1;34mINFO[m] including property git.build.time in results
+[[1;34mINFO[m] including property git.commit.message.full in results
+[[1;34mINFO[m] including property git.remote.origin.url in results
+[[1;34mINFO[m] Reading existing properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] (for module devops-integration)...
+[[1;34mINFO[m] Properties file [/var/lib/jenkins/workspace/Project1/target/classes/git.properties] is up-to-date (for module devops-integration)...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:build-info[m [1m(default)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:resources[m [1m(default-resources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] Copying 2 resources
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:compile[m [1m(default-compile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.2.0:testResources[m [1m(default-testResources)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered properties files.
+[[1;34mINFO[m] skip non existing resourceDirectory /var/lib/jenkins/workspace/Project1/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.10.1:testCompile[m [1m(default-testCompile)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.2:test[m [1m(default-test)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m]  T E S T S
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m] Running com.truelearning.[1mDevopsIntegrationApplicationTests[m
+04:06:14.113 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+04:06:14.153 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+04:06:14.216 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.truelearning.DevopsIntegrationApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+04:06:14.259 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.truelearning.DevopsIntegrationApplicationTests], using SpringBootContextLoader
+04:06:14.267 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.truelearning.DevopsIntegrationApplicationTests]: class path resource [com/truelearning/DevopsIntegrationApplicationTests-context.xml] does not exist
+04:06:14.284 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.truelearning.DevopsIntegrationApplicationTests]: class path resource [com/truelearning/DevopsIntegrationApplicationTestsContext.groovy] does not exist
+04:06:14.288 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.truelearning.DevopsIntegrationApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+04:06:14.290 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.truelearning.DevopsIntegrationApplicationTests]: DevopsIntegrationApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+04:06:14.376 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.truelearning.DevopsIntegrationApplicationTests]
+04:06:14.476 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [/var/lib/jenkins/workspace/Project1/target/classes/com/truelearning/DevopsIntegrationApplication.class]
+04:06:14.477 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.truelearning.DevopsIntegrationApplication for test class com.truelearning.DevopsIntegrationApplicationTests
+04:06:14.642 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.truelearning.DevopsIntegrationApplicationTests]: using defaults.
+04:06:14.658 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+04:06:14.689 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+04:06:14.690 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Skipping candidate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] due to a missing dependency. Specify custom listener classes or make the default listener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+04:06:14.691 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@36a5cabc, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@432038ec, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7daa0fbd, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@42530531, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5a3bc7ed, org.springframework.test.context.support.DirtiesContextTestExecutionListener@181e731e, org.springframework.test.context.event.EventPublishingTestExecutionListener@35645047, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6f44a157, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6bc407fd, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@291f18, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@17d88132, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@5ddcc487, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@16eccb2e]
+04:06:14.697 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@6d167f58 testClass = DevopsIntegrationApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@3403e2ac testClass = DevopsIntegrationApplicationTests, locations = '{}', classes = '{class com.truelearning.DevopsIntegrationApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@34f5090e, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@1b6e1eff, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@793be5ca, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@24fcf36f, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@3d6f0054, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@646d64ab], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.0)
+
+2024-03-28 04:06:17.511  INFO 2321 --- [           main] c.t.DevopsIntegrationApplicationTests    : Starting DevopsIntegrationApplicationTests using Java 11.0.22 on ip-172-31-11-163 with PID 2321 (started by jenkins in /var/lib/jenkins/workspace/Project1)
+2024-03-28 04:06:17.523  INFO 2321 --- [           main] c.t.DevopsIntegrationApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-03-28 04:06:38.795  INFO 2321 --- [           main] c.t.DevopsIntegrationApplicationTests    : Started DevopsIntegrationApplicationTests in 24.02 seconds (JVM running for 26.028)
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m1[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.797 s - in com.truelearning.[1mDevopsIntegrationApplicationTests[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Results:
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1;32mTests run: 1, Failures: 0, Errors: 0, Skipped: 0[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:3.2.2:jar[m [1m(default-jar)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Building jar: /var/lib/jenkins/workspace/Project1/target/devops-integration.jar
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.7.0:repackage[m [1m(repackage)[m @ [36mdevops-integration[0;1m ---[m
+[[1;34mINFO[m] Replacing main artifact with repackaged archive
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  38.765 s
+[[1;34mINFO[m] Finished at: 2024-03-28T04:06:46Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4Bgkg6Oj16WRQPKuQESsF3v+Oe7VfmdY8Ote3df7txl8AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AFSjtgYvgAAAA==[0m[Pipeline] }
+[8mha:////4HlzcIMwXYCb9BVhxweLEhZgTqmvwLJ8lk0AsDnp+7o2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihQYJUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5r3PVhw9qzEvpvgAAAA==[0m[Pipeline] // stage
+[8mha:////4Lr8XLl9EndYo/ORjscppBQLdUkeOChDDNN61bSOlfoUAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYRThA5R0VpueIGJjXFi3QX7QlLxIr7GHzBEomKrnZVW83xBlSIcKDrRWew9ptaLIYwuNzFR7C+BJtHRWbSEiYIVyk6KjD0uqIgtLClKWElYW2wDJY+OYSM7fdd10OjqE8e87SWU3tzgAYXMZtaRvzBH2F5Hkwh/nr8CmAeGYsdQNs3nWL0BMYchQMEAAAA=[0m[Pipeline] stage
+[8mha:////4Ojn78qClHuqzfpq5rsDkObjx3m6nNXBIfjPPDQIThR5AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KBtiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPBdk7bsIAAAA=[0m[Pipeline] { (Deploy)
+[8mha:////4Dfo5CgMnRu6uW4L61H6ikQU08b9mF+nzfsQF+bIvRPMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSABWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBtZos2m+AAAA[0m[Pipeline] sh
++ sudo cp -f /var/lib/jenkins/workspace/codePackage/target/devops-integration.jar /opt/tomcat/webapps
+[8mha:////4AruwGZ9XswqTsfxrqkixUzsayMrIIV+k4I9NfAab2QmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Nxbzd2K+AAAA[0m[Pipeline] }
+[8mha:////4AC83piNXMxk2lDofBx7iHqvvI+VkTf98qYcXQrFTHicAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSpLBwrGwZGk+ACSKE+Z8AkVSeyKt5B9HMWLnFzr5t3vMF6xjgSEEzq3AwGDvDvJt0WSxTGK6OMrN0YR1hJKeYUFlQr04LCkoKllQ1rDhsFHaOokGdYMutvMvGSdTNOYXyHTjUph/hARUv5iRD+sIcYHeb+kj48/wVwOx9grrdf6p9AxC1Tze+AAAA[0m[Pipeline] // stage
+[8mha:////4G9OOZ4krIxR8RVBQ1NxfR9+i0bhmdE6zuaSR9wnIuYPAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpoEBCVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AE/B/a+9AAAA[0m[Pipeline] }
+[8mha:////4KY3xm7+obxy7B89Bngfdsjuk95goDa4L2+OY/6fPHCDAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIUVI5jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwAXH35DL0AAAA=[0m[Pipeline] // node
+[8mha:////4ByJhxhwgRQot5LV+VRGR1l2PbtateTOH/8PKW4GS8ZOAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77eCbPcBAx/ra70AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

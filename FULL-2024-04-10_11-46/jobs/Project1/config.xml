@@ -1,0 +1,58 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1400.v7fd111b_ec82f">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2184.v0b_358b_953e69">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description>CI/CD project1</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3889.v937e0b_3412d3">
+    <script>pipeline{
+    agent any
+    stages{
+        stage(&quot;checking out the code from github&quot;){
+            steps{
+                git url:&apos;https://github.com/Apekshshn/cicdakshat&apos;
+            }
+        }
+        stage(&quot;code compile&quot;){
+            steps{
+                sh &quot;mvn compile&quot;
+                echo &quot;compiling is done&quot;
+            }
+        }
+        stage(&quot;code testing&quot;){
+            steps{
+                sh &quot;mvn test&quot;
+                echo &quot;Testing is done&quot;
+            }
+        }
+        stage(&quot;QA of code&quot;){
+            steps{
+                sh &quot;mvn pmd:pmd&quot;
+                recordIssues sourceCodeRetention: &apos;LAST_BUILD&apos;, tools: [pmdParser()]
+            }
+        }
+        stage(&quot;package&quot;){
+            steps{
+                sh &quot;mvn package&quot;
+            }
+        }
+        stage(&quot;Deploy&quot;){
+            steps{
+                sh &quot;sudo cp -f /var/lib/jenkins/workspace/Project1/target/devops-integration.jar /opt/tomcat/webapps&quot;
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>
